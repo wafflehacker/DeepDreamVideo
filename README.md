@@ -103,3 +103,5 @@ https://www.youtube.com/watch?v=6IgbMiEaFRY
 ## Credits
 
 Roelof | [KTH](www.csc.kth.se/~roelof/) & [Graph Technologies](http://www.graph-technologies.com/) | [@graphific](https://twitter.com/graphific)
+
+Multithreading by WaffleHcker (still in development)
